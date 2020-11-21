@@ -140,9 +140,9 @@ Skeleton 2: U' B' U B' * L2 B2 R2 + F2 R D' R L' F D2
 
 Another method to obtain DR avoiding EO was suggested by Chong Wen but we couldn’t see it applied anywhere in any solve. Basically, this trick consists of using DR Triggers that influence EO too, thus saving some moves
 
-R’ F R F’ – 2 non-oriented U/D edges; 1 oriented E-edge; 4 corners
-
-F R’ F’ R - 2 non-oriented edges, one U/D and one E; 1 oriented U/D edge; 4 corners
+>R’ F R F’ – 2 non-oriented U/D edges; 1 oriented E-edge; 4 corners
+>
+>F R’ F’ R - 2 non-oriented edges, one U/D and one E; 1 oriented U/D edge; 4 corners
 
 As always, execute the inverse of this triggers to understand how corners should be positioned.
 
