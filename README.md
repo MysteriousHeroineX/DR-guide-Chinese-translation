@@ -5,3 +5,5 @@ Alexandros Fokianos与Tommaso Raposio所著的《DR教程(A Domino Reduction Gui
 原文：https://github.com/MysteriousHeroineX/DR-guide-Chinese-translation/tree/origin
 
 译文：https://github.com/MysteriousHeroineX/DR-guide-Chinese-translation/tree/translated
+
+术语表：https://github.com/MysteriousHeroineX/DR-guide-Chinese-translation/blob/main/glossary.md
