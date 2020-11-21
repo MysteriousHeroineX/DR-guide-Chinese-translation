@@ -6,13 +6,13 @@ This guide will be mainly focused on the three-step method described in the prev
 
 If, instead, you want to focus mainly on DR, here is some advice:
 
--Try keeping track of corner orientation doing EO, possibly influencing it.
+- Try keeping track of corner orientation doing EO, possibly influencing it.
 
--Pairs or pseudo pairs, made by joining same or opposite colours together, can lead to a better trigger case
+- Pairs or pseudo pairs, made by joining same or opposite colours together, can lead to a better trigger case
 
--Each EO has two possible endings, try both (e.g. F/F’)
+- Each EO has two possible endings, try both (e.g. F/F’)
 
--Try influencing E-layer edges during EO, you should end up with at least 2 good edges to get a good DR.
+- Try influencing E-layer edges during EO, you should end up with at least 2 good edges to get a good DR.
 
 Different approaches consist in joining some of the steps together or changing their order. In the next sections we will talk about them very briefly since a lot of this stuff is still unexplored.
 
@@ -106,7 +106,7 @@ F ° U2 * D2 £ B2 L2 F L2 F D2 F ! // solves corners, leaves 6edges
 
 *° : L' S' L - set-up to slice to moves some E-edges*
 
-** : S' - set-up (moves an R/L edge)*
+* * : S' - set-up (moves an R/L edge)*
 
 *£ : R E R' - set-up to slice to orient last edges*
 
